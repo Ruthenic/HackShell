@@ -1,0 +1,7 @@
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\HackShell.exe.config
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\HackShell.exe
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\HackShell.pdb
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\HackShell.csprojAssemblyReference.cache
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\HackShell.csproj.CoreCompileInputs.cache
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\HackShell.exe
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\HackShell.pdb
